@@ -1,0 +1,21 @@
+/*css file*/
+
+.container{
+  padding:20px;
+}
+
+.heading{
+  font-size:18px;
+  padding: 10px;
+  color: #fff;
+  background: #666;
+}
+
+.detail{
+  font-size:14px;
+  margin-left: 10px;
+}
+
+li{
+  line-height: 180%;
+}

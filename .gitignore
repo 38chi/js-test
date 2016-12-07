@@ -1,0 +1,23 @@
+# Project specific settings
+
+# common
+*.mp4
+*.flv
+*.f4v
+.vagrant
+.psd
+.psb
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
