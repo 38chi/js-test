@@ -1,11 +1,16 @@
 $(function(){
 
-  function test3Create(box1){
-    
-  console.log(box1);
+  function num3Create(num1){
+
+  var num1 = 500;
+  var num2 = 220;
+  var num3 = num1 * 3;
+  var num4 = num2 + num3;
+
+  console.log(num1);
 
 };
 
-  test3Create(150);
+  num3Create(150);
 
 });
